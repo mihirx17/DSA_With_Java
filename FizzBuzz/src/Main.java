@@ -5,7 +5,10 @@ public class Main {
 
         System.out.printf("Hello and welcome!");
 
-        int Array[] = {10, 20, 30, 40, 55, 55, 66, 89};
+        // Press Shift+F10 or click the green arrow button in the gutter to run the code.
+        for (int i = 1; i <= 5; i++) {
+
 
         }
     }
+}
